@@ -1,0 +1,10 @@
+body {
+  background-color: #ecf0f1;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+}
+.card-body {
+text-align: center;
+}
