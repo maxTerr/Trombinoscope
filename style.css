@@ -1,5 +1,5 @@
 body {
-  background-color: #ecf0f1;
+  background-color:#EFEFE7;
 }
 .nav {
   display: flex;
@@ -7,4 +7,8 @@ body {
 }
 .card-body {
 text-align: center;
+}
+.card {
+  background-color:#EFEFE7 ;
+  border-style: none;
 }
